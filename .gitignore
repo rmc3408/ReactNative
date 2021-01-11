@@ -1,15 +1,5 @@
 /node_modules
 /Resources
-node_modules/**/*
-.expo/*
-npm-debug.*
-*.jks
-*.p8
-*.p12
-*.key
-*.mobileprovision
-*.orig.*
-web-build/
 
 
 /01-basics/rn-starter/node_modules
